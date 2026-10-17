@@ -12,3 +12,4 @@ body {
   border-radius: 1rem;
 }
 .card h2 { color: #1565c0; }
+.card { color: #fff; background: #fff; }
