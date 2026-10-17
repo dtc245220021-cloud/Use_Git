@@ -1,0 +1,3 @@
+Ghi chú thực hành Git.
+File này ban đầu sẽ được giữ ở trạng thái untracked.
+Đã cập nhật cùng style.css trong một commit.
